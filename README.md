@@ -34,7 +34,7 @@ At MarineAI, I get to build real-world systems that support **autonomous marine 
 
 ## 🔧 Side Involvements
 
-⚙️ I’m part of the dev team behind **Private 6 Mans**, a competitive Rocket League matchmaking platform.  
+⚙️ I’m part of the dev team behind **Private 6 Mans**, a competitive Rocket League discord bot.  
 I contribute backend features, commands, and Discord bot logic a lttle.
 ---
 
@@ -43,7 +43,7 @@ I contribute backend features, commands, and Discord bot logic a lttle.
 - Specialise in **Robotics & AI** (catch me in 2026 building bots that judge your variable names)
 - Keep exploring **embedded systems** and **distributed backends**
 - Build open-source tools that blend low-level power with clean high-level APIs
-- Master containerization workflows and infrastructure beyond just dev setups
+- Master containerisation workflows and infrastructure beyond just dev setups
 
 ---
 
