@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Nana Adjei
+# Hey, I'm Nana Adjei
 
 Welcome to my GitHub profile! I'm currently on a placement year at **MarineAI**, where I work on backend libraries, sensor interfaces, and more in **Python** and **C++**.
 
@@ -6,7 +6,7 @@ Outside of work, I'm a final-year **Software Engineering** student at the Univer
 
 ---
 
-## 🧰 My Tech Stack
+## My Tech Stack
 
 - **Primary Languages**: Python, C++, JavaScript
 - **Currently Learning**: React, TypeScript
@@ -15,30 +15,29 @@ Outside of work, I'm a final-year **Software Engineering** student at the Univer
 
 ---
 
-## 🧪 Personal Projects & Experiments
+## Personal Projects & Experiments
 
 You’ll find all sorts here — some polished, most half-baked university projects. GitHub is my lab for ideas, libraries, and cursed experiments.
 
 One of my proudest side quests:  
-🌐 [**sneakyofficial.com**](http://sneakyofficial.com) – My personal site (and splatdle), hosted on my own servers (because why not make life harder and learn networking the hard way?).  
-> ⚠️ Might be down or wonky at times — it’s 20% portfolio, 80% chaos lab.
+[**sneakyofficial.com**](http://sneakyofficial.com) – My personal site (and splatdle), hosted on my own servers (because why not make life harder and learn networking the hard way?).  
+>  Might be down or wonky at times - it’s 20% portfolio, 80% chaos lab.
 
 🛠️ I also take commissions for **Discord bots** and **websites**, this is something I have done before with great satisfaction from my clients — DM me if interested, or even for me to give examples of projects I've worked on for clients.
 ---
 
-## 💼 Work @ MarineAI
+## Work @ MarineAI
 
 At MarineAI, I get to build real-world systems that support **autonomous marine navigation** and **safety-critical applications**. It’s fast-paced, hardware-integrated, and honestly a fantastic place to learn what “production-ready” *really* means.
 
 ---
 
-## 🔧 Side Involvements
-
-⚙️ I’m part of the dev team behind **Private 6 Mans**, a competitive Rocket League discord bot.  
+## Side Involvements
+I’m part of the dev team behind **Private 6 Mans**, a competitive Rocket League discord bot.  
 I contribute backend features, commands, and Discord bot logic a lttle.
 ---
 
-## 🎯 Goals
+## Goals
 
 - Specialise in **Robotics & AI** (catch me in 2026 building bots that judge your variable names)
 - Keep exploring **embedded systems** and **distributed backends**
