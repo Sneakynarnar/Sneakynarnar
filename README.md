@@ -23,7 +23,7 @@ One of my proudest side quests:
 [**sneakyofficial.com**](http://sneakyofficial.com) – My personal site (and splatdle), hosted on my own servers (because why not make life harder and learn networking the hard way?).  
 >  Might be down or wonky at times - it’s 20% portfolio, 80% chaos lab.
 
-🛠️ I also take commissions for **Discord bots** and **websites**, this is something I have done before with great satisfaction from my clients — DM me if interested, or even for me to give examples of projects I've worked on for clients.
+I also take commissions for **Discord bots** and **websites**, this is something I have done before with great satisfaction from my clients — DM me if interested, or even for me to give examples of projects I've worked on for clients.
 ---
 
 ## Work @ MarineAI
